@@ -2,7 +2,7 @@
 
 **Project Repository:** https://github.com/keya-05/InnovateHive-Redesign
 
-**Live Demo:** [INSERT LIVE HOSTED DEMO URL HERE (e.g., Netlify/Vercel link)]
+**Live Demo:** https://mellifluous-fenglisu-2d250e.netlify.app/
 
 **Submitted by:** Keya Chaudhary
 **Date:** 30 November,2025
@@ -66,7 +66,7 @@ Accessibility was prioritized from the beginning to ensure a user-focused experi
 The project meets all the required deliverables:
 
 * **Public GitHub Repository:** Available at `https://github.com/keya-05/InnovateHive-Redesign`.
-* **Hosted Demo URL:** [INSERT LIVE HOSTED DEMO URL HERE].
+* **Hosted Demo URL:**  `https://mellifluous-fenglisu-2d250e.netlify.app/`.
 * **Complete Documentation:** This `README.md` serves as the setup instructions and design rationale.
 
 ### Local Setup Instructions
